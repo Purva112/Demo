@@ -2,8 +2,8 @@
 
 ## CALENDER APPLICATION
 
-[![C/C++ CI - Build Status](https://github.com/kushwahaanshika/Mini_project/actions/workflows/main.yml/badge.svg)]
- (https://github.com/Purva112/Demo/actions/workflows/main.yml)
+![C/C++ CI - Build Status](https://github.com/kushwahaanshika/Mini_project/actions/workflows/main.yml/badge.svg)
+
 
 [![Code Quality - Static Code - Cppcheck](https://github.com/kushwahaanshika/Mini_project/actions/workflows/cpp_check.yml/badge.svg)](https://github.com/Purva112/Demo/actions/workflows/cpp_check.yml)
 
