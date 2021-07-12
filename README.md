@@ -9,5 +9,5 @@
 
 [![Contribution Check - Git Inspector](https://github.com/kushwahaanshika/Mini_project/actions/workflows/git-inspector.yml/badge.svg)](https://github.com/Purva112/Demo/actions/workflows/git-inspector.yml)
 
-[![Static Code Analysis](https://github.com/kushwahaanshika/Mini_project/actions/workflows/static-code.yml/badge.svg)]
- (https://github.com/Purva112/Demo/actions/workflows/static-code.yml)
+![Static Code Analysis](https://github.com/kushwahaanshika/Mini_project/actions/workflows/static-code.yml/badge.svg)
+ 
