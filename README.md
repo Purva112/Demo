@@ -6,7 +6,7 @@
 ## Badges Obtained
 Build | Code Quality | Static Code |Unit Testing| Git Inspector 
 ------|--------------|--------------|---------------|----------
-  [![Code Quality - Static Code - Cppcheck](https://github.com/Purva112/Demo/actions/workflows/cpp_check.yml/badge.svg)](https://github.com/Purva112/Demo/actions/workflows/cpp_check.yml)|   |   |  
+  |[![Code Quality - Static Code - Cppcheck](https://github.com/Purva112/Demo/actions/workflows/cpp_check.yml/badge.svg)](https://github.com/Purva112/Demo/actions/workflows/cpp_check.yml)|   |    |[![Contribution Check - Git Inspector](https://github.com/Purva112/Demo/actions/workflows/git-inspector.yml/badge.svg)](https://github.com/Purva112/Demo/actions/workflows/git-inspector.yml)
 
 
 ## Folder Structure
