@@ -4,9 +4,9 @@
 
 
 ## Badges Obtained
-Code Quality | Static Code |Unit Testing| Git Inspector 
---------------|--------------|---------------|----------
- [![Code Quality - Static Code - Cppcheck](https://github.com/Purva112/Demo/actions/workflows/cpp_check.yml/badge.svg)](https://github.com/Purva112/Demo/actions/workflows/cpp_check.yml)| [![Static Code Analysis](https://github.com/Purva112/Demo/actions/workflows/static-code.yml/badge.svg)](https://github.com/Purva112/Demo/actions/workflows/static-code.yml) | [![Unit Testing](https://github.com/Purva112/Demo/actions/workflows/unity.yml/badge.svg)](https://github.com/Purva112/Demo/actions/workflows/unity.yml)   |[![Contribution Check - Git Inspector](https://github.com/Purva112/Demo/actions/workflows/git-inspector.yml/badge.svg)](https://github.com/Purva112/Demo/actions/workflows/git-inspector.yml)
+Build |Code Quality | Static Code |Unit Testing| Git Inspector 
+--------|-------------|--------------|---------------|----------
+[![C/C++ CI - Build Status](https://github.com/Purva112/Demo/actions/workflows/main.yml/badge.svg)](https://github.com/Purva112/Demo/actions/workflows/main.yml) |[![Code Quality - Static Code - Cppcheck](https://github.com/Purva112/Demo/actions/workflows/cpp_check.yml/badge.svg)](https://github.com/Purva112/Demo/actions/workflows/cpp_check.yml)| [![Static Code Analysis](https://github.com/Purva112/Demo/actions/workflows/static-code.yml/badge.svg)](https://github.com/Purva112/Demo/actions/workflows/static-code.yml) | [![Unit Testing](https://github.com/Purva112/Demo/actions/workflows/unity.yml/badge.svg)](https://github.com/Purva112/Demo/actions/workflows/unity.yml)   |[![Contribution Check - Git Inspector](https://github.com/Purva112/Demo/actions/workflows/git-inspector.yml/badge.svg)](https://github.com/Purva112/Demo/actions/workflows/git-inspector.yml)
 
 
 ## Folder Structure
