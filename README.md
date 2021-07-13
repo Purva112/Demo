@@ -4,7 +4,8 @@
 
 
 ## Badges Obtained
-
+Build | Code Quality | Static Code |Unit Testing| Git Inspector 
+------|--------------|--------------|---------------|----------
 
 
 
