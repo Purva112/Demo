@@ -17,4 +17,16 @@ Folder             | Description
 `3_Implementation` | All code and documentation
 `4_Test_plan`      | Documents with test plans and procedures
 
+## Contributors List and Summary
+SF Id. |	Name |	Features	|	Number of Test Cases|	Test Case Pass
+-------|--------|----------|----------------------|---------------
+314195| Anshika kushwaha| 3 |     3   |   2
+
+
+## Challenges faced and How it was Overcome
+Sr.No.| Challenges| Overcome
+------|-------------|----------
+1     |  Making of UML diagrams	 |By Studying about Project and basic concepts of UML diagram
+2     |Creating github Workflows	|By Code Inspection
+3     |C/C++ CI - Build Status was not passing	|By modifying the code
 
