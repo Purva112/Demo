@@ -3,18 +3,20 @@
 ## CALENDER APPLICATION
 
 
-Build | Code Quality | Static Code |Unit Testing| Git Inspector 
-------|--------------|--------------|---------------|----------
-[![C/C++ CI - Build Status](https://github.com/Purva112/Demo/actions/workflows/main.yml/badge.svg)]
-(https://github.com/Purva112/Demo/actions/workflows/main.yml)|[![Code Quality - Static Code - Cppcheck]
-(https://github.com/Purva112/Demo/actions/workflows/cpp_check.yml/badge.svg)](https://github.com/kushwahaanshika/Mini_project/actions/workflows/cpp_check.yml) [!
-[Codacy Badge](https://app.codacy.com/project/badge/Grade/f23fdb148ebe488981657b0718599c65)](https://www.codacy.com/gh/Purva112/Demo/dashboard?
-utm_source=github.com&amp;utm_medium=referral&amp;utm_content=Purva112/Demot&amp;utm_campaign=Badge_Grade) |[![Static Code Analysis]
-(https://github.com/Purva112/Demo/actions/workflows/static-code.yml/badge.svg)](https://github.com/Purva112/Demo/actions/workflows/static-
-code.yml)|[![Unit Testing](https://github.com/Purva112/Demo/actions/workflows/unity.yml/badge.svg)]
-(https://github.com/Purva112/Demo/actions/workflows/unity.yml)  |[![Contribution Check - Git Inspector]
-(https://github.com/Purva112/Demo/actions/workflows/git-inspector.yml/badge.svg)](https://github.com/Purva112/Demo/actions/workflows/git-
-inspector.yml)
+## Badges Obtained
+
+|Windows Build|Code Grade|Code Quality|
+|-------------|----------|------------|
+|[![C windows Build](https://github.com/Purva112/Demo/actions/workflows/build.yml/badge.svg)]
+(https://github.com/Purva112/Demo/actions/workflows/build.yml)|![Quality Batch](https://www.code-inspector.com/project/24935/status/svg)|![code quality 
+score](https://www.code-inspector.com/project/24935/score/svg)|
+
+|Git Inspector|cppcheck|
+|-------------|--------|
+|[![Git Inspector](https://github.com/Purva112/Demo/actions/workflows/gitinspector.yml/badge.svg)]
+(https://github.com/Purva112/Demo/actions/workflows/gitinspector.yml)|[![cppcheck-action]
+(https://github.com/Purva112/Demo/actions/workflows/cpp-check.yml/badge.svg)]
+(https://github.com/Purva112/Demo/actions/workflows/cpp-check.yml)|
 
 
 ## Folder Structure
