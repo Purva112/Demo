@@ -7,11 +7,15 @@
 
 |Windows Build|Code Grade|Code Quality|
 |-------------|----------|------------|
-|[![C windows Build](https://github.com/meghasgowda99/calendar_application_302301/actions/workflows/build.yml/badge.svg)](https://github.com/meghasgowda99/calendar_application_302301/actions/workflows/build.yml)|![Quality Batch](https://www.code-inspector.com/project/24935/status/svg)|![code quality score](https://www.code-inspector.com/project/24935/score/svg)|
+|[![C windows Build](https://github.com/Purva112/Demo/actions/workflows/build.yml/badge.svg)]
+(https://github.com/Purva112/Demo/actions/workflows/build.yml)|![Quality Batch](https://www.code-inspector.com/project/24935/status/svg)|![code quality score](https://www.code-inspector.com/project/24935/score/svg)|
 
 |Git Inspector|cppcheck|
 |-------------|--------|
-|[![Git Inspector](https://github.com/meghasgowda99/calendar_application_302301/actions/workflows/gitinspector.yml/badge.svg)](https://github.com/meghasgowda99/calendar_application_302301/actions/workflows/gitinspector.yml)|[![cppcheck-action](https://github.com/meghasgowda99/calendar_application_302301/actions/workflows/cpp-check.yml/badge.svg)](https://github.com/meghasgowda99/calendar_application_302301/actions/workflows/cpp-check.yml)|
+|[![Git Inspector](https://github.com/Purva112/Demo/actions/workflows/gitinspector.yml/badge.svg)]
+(https://github.com/Purva112?Demo/actions/workflows/gitinspector.yml)|[![cppcheck-action]
+(https://github.com/Purva112/Demo/actions/workflows/cpp-check.yml/badge.svg)]
+(https://github.com/Purva112/Demo/actions/workflows/cpp-check.yml)|
 
 
 
