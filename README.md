@@ -7,8 +7,8 @@
 
 |Windows Build|Code Grade|Code Quality|
 |-------------|----------|------------|
-|[![C windows Build](https://github.com/Purva112/Demo/actions/workflows/build.yml/badge.svg)]
-(https://github.com/Purva112/Demo/actions/workflows/build.yml)|![Quality Batch](https://www.code-inspector.com/project/24935/status/svg)|![code quality score](https://www.code-inspector.com/project/24935/score/svg)|
+|[C windows Build](https://github.com/Purva112/Demo/actions/workflows/build.yml/badge.svg)]
+(https://github.com/Purva112/Demo/actions/workflows/build.yml)|[Quality Batch](https://www.code-inspector.com/project/24935/status/svg)|[code quality score](https://www.code-inspector.com/project/24935/score/svg)|
 
 |Git Inspector|cppcheck|
 |-------------|--------|
