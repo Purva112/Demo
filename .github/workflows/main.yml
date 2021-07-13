@@ -27,7 +27,7 @@ jobs:
 
       # Runs a single command using the runners shell
       - name: Run a one-line script
-        run: make -C 3_Implementation/ calender.c
+        run: make -C 3_Implementation/Calender.c
 
       # Runs a set of commands using the runners shell
      # - name: Run a multi-line script
